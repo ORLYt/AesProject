@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\bin\Debug\AesProject.exe.config
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\bin\Debug\AesProject.exe
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\bin\Debug\AesProject.pdb
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\obj\Debug\AesProject.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\obj\Debug\AesProject.exe
+C:\Users\Dell\Desktop\בן גוריון-שנה שלישית\סמסטר ב\אבטחה\AesProject-master\AesProject\obj\Debug\AesProject.pdb
